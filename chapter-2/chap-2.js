@@ -1,7 +1,7 @@
 let miles = 80.7783;
 let kilometers = miles * 1.60934;
 console.log("Project: Miles-to-kilometers converter");
-console.log("The distance of' ${'kilometers} kms is equal to ${miles} miles")
+console.log("The distance of " +kilometers +"kms is equal to " +miles+ " miles")
 
 // BMI Calculator
 let inches = 55;
